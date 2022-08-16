@@ -1,16 +1,14 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**seabassjh/seabassjh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# **Sebastian J. Hamel**
 
-Here are some ideas to get you started:
+Software Engineer @ NASA 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[📧 E-mail](mailto:sebastian@jhamel.com) 
+[📋 Resume](https://github.com/seabassjh/resume/releases/download/latest/resume.pdf)
+
+![Sebastian's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seabassjh&layout=compact&exclude_repo=seabassjh,seabassjh.github.io,power&langs_count=4&hide=tex,shell,html)
+
+![Sebastian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seabassjh&show_icons=true&hide_title=true&hide_rank=false&count_private=true&disable_animations=true)
+
+</div>
