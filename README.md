@@ -5,7 +5,6 @@
 Software Engineer @ NASA 🚀
 
 [📧 E-mail](mailto:sebastian@jhamel.com) 
-[📋 Resume](https://github.com/seabassjh/resume/releases/download/latest/resume.pdf)
 
 ![Sebastian's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seabassjh&layout=compact&exclude_repo=seabassjh,seabassjh.github.io,power&langs_count=4&hide=tex,shell,html)
 
